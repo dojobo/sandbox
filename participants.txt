@@ -1,0 +1,1 @@
+hi workshop participantscd ~/Documents/workshops/sandbox
